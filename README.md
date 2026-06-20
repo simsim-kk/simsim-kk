@@ -18,7 +18,7 @@ I build and ship web products independently using AI coding tools (Cursor, Winds
 
 ## 🚀 Projects · 项目
 
-### 🌱 灵感铺 · 小红书创作三件套 | Inspiration Stall · XHS Creator Toolkit
+### 灵感铺 · 小红书创作三件套 | Inspiration Stall · XHS Creator Toolkit
 
 **[在线访问 / Live Demo →](https://simsim-kk.github.io/xhs-toolkit/)**
 
