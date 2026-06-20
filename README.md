@@ -9,6 +9,9 @@ I build and ship web products independently using AI coding tools (Cursor, Winds
 ### 🛠️ Tools & Workflow
 [![My Skills](https://skillicons.dev/icons?i=cursor,windsurf,vscode,figma,git,github)](https://skillicons.dev)
 
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-58E5C0?style=for-the-badge)
+
 ### 💻 Languages & Tech
 [![My Skills](https://skillicons.dev/icons?i=js,react,python,nodejs,cloudflare,html,css)](https://skillicons.dev)
 ---
