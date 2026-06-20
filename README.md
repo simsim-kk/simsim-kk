@@ -6,6 +6,11 @@
 
 I build and ship web products independently using AI coding tools (Cursor, Windsurf), covering AI content generation, simulated trading, and fan interaction. I have hands-on experience in AI product design, prompt engineering, and UX.
 
+### 🛠️ Tools & Workflow
+[![My Skills](https://skillicons.dev/icons?i=cursor,windsurf,vscode,figma,git,github)](https://skillicons.dev)
+
+### 💻 Languages & Tech
+[![My Skills](https://skillicons.dev/icons?i=js,react,python,nodejs,cloudflare,html,css)](https://skillicons.dev)
 ---
 
 ## 🚀 Projects · 项目
