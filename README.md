@@ -18,6 +18,26 @@ I build and ship web products independently using AI coding tools (Cursor, Winds
 
 ## 🚀 Projects · 项目
 
+### 🌱 灵感铺 · 小红书创作三件套 | Inspiration Stall · XHS Creator Toolkit
+
+**[在线访问 / Live Demo →](https://simsim-kk.github.io/xhs-toolkit/)**
+
+一站式小红书创作辅助工具，整合选题、排版、效果检测三个环节。
+A one-stop toolkit for Xiaohongshu (RedNote) creators — trend discovery, smart formatting, and virality scoring in a single page.
+
+- 🔥 **热点追踪** — 按 10 个内容方向生成当下适合切入的选题角度与话题标签，Cloudflare Worker 定时任务 + KV 缓存，毫秒级响应
+- 🎨 **排版生成** — 任意文字一键转换为小红书风格笔记（标题 / 分段 / emoji / 话题标签）
+- 📊 **爆款检测** — 从标题吸引力、内容结构、话题契合、互动引导四个维度评分
+
+**技术栈 / Stack：** GitHub Pages（前端） + Cloudflare Workers（边缘函数） + Workers KV（缓存） + Groq API（llama-3.3-70b）+ Cron Triggers（定时任务）
+
+**亮点 / Highlights：**
+前后端分离架构，密钥与业务逻辑全部隔离在 Worker 层；用定时批量生成替代实时请求，
+显著降低响应延迟与 API 成本；针对公开数据源拦截问题（403/530）调整方案为 AI 知识生成，
+保证服务零依赖、零中断风险。
+
+---
+
 ### [BTS ARMY World](https://simsim-kk.github.io/bts-army-world)
 全栈粉丝互动网站 · Full-stack fan interaction platform
 
